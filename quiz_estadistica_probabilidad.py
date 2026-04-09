@@ -139,7 +139,6 @@ PREGUNTAS = [
             "**Pregunta 2.** Un examen de opción múltiple tiene 5 preguntas, cada una con 4 opciones "
             "donde solo una es correcta. Si un estudiante responde al azar, "
             "¿cuál es la probabilidad de que acierte exactamente 2 preguntas? "
-            "Use $P(X=k) = \\binom{n}{k}\\, p^k (1-p)^{n-k}$ con $n=5$, $k=2$, $p=0.25$."
         ),
         "opciones": [
             "A) $0.2637$",
